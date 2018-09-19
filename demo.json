@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "title": "SQL設計",
+        "type": "MSSQL",
+        "pic": "images/3.jpg",
+        "year": "2017-2018",
+        "body": "<h4>Sql Job</h4><p>每日訂單紅利計算發送<br>每日寄送訂單/商品/出貨相關通知等</p><p><h4>Sql Procedure</h4>報表相關 - 損益分析表資料產出</p><p><h4>Sql View</h4>上架商品庫存數加總計算等</p>"
+    },
+    {
+        "id": 2,
+        "title": "簡易簽核系統",
+        "type": "C# WebForm、Bootstrap",
+        "pic": "images/1.jpg",
+        "year": "2017",
+        "body": "<div class=\"col-12\"><h4>主要功能</h4><p>部門管理<br /><img src=\"images/WF-2.png\" alt=\"部門管理\" /></p><p>使用者管理<br /><img src=\"images/WF-3.png\" alt=\"使用者管理\" /></p><p>申請單簽核 - 列表<br /><img src=\"images/WF-4.png\" alt=\"申請單簽核 - 列表\" /><p>申請單簽核<br /><img src=\"images/WF-5-3.png\" alt=\"申請單簽核\" /></p><p>配合流程寄送郵件通知</p></div>"
+    },
+    {
+        "id": 3,
+        "title": "知識管理系統",
+        "type": "jQuery、Web Service",
+        "pic": "images/2.jpg",
+        "year": "2016",
+        "body": "<h4>主要功能</h4><p>文章管理</p><p>顯示最新回應</p><p>點閱統計</p><p>熱門標籤</p><p>熱門文章排名</p><p>每週新文章、熱門文章郵件通知</p>"
+    },
+    {
+        "id": 4,
+        "title": "其他客製功能",
+        "type": "C# Webform",
+        "pic": "images/4.jpg",
+        "year": "2016-2018",
+        "body": "<div class=\"col-12\"><p>API 資料串接</p><p>Excel資料 匯入/匯出</p><p>銷量排行</p><p>電子報管理</p><p></p><p>客服信件回覆<br />點擊後會員資料會帶入新郵件<br /><img src=\"images/CSR-1.png\" alt=\"客服信件回覆\" /></p><p>rdlc報表<br />採購追加單<br /><img src=\"images/POM-K.png\" alt=\"採購追加單\" /><br><br>門市點貨單<br><img src=\"images/ST-PS.png\" alt=\"門市點貨單\" /></p></div>"
+    },
+    {
+        "id": 5,
+        "title": "網站開發維護",
+        "type": "Sencha Touch 2.1、Webform",
+        "pic": "images/11.jpg",
+        "year": "2014",
+        "body": "<p>負責前端程式<br><a href=\"https://m.mtnet.gov.tw/MTNetMobileWeb/\" target=\"_blank\">MTNet航政監理行動服務平台</a></p><p>網站維護<br><a href=\"https://www.queenshop.com.tw\" target=\"_blank\">QueenShop</a></p>"
+    }
+]
+  
