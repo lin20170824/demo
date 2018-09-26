@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "SQL設計",
+        "title": "SQL",
         "type": "MSSQL",
         "pic": "images/3.jpg",
         "year": "2017-2018",
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": "知識管理系統",
-        "type": "jQuery、Web Service",
+        "type": "C# Web Service、Bootstrap",
         "pic": "images/2.jpg",
         "year": "2016",
         "body": "<h4>主要功能</h4><p>文章管理</p><p>顯示最新回應</p><p>點閱統計</p><p>熱門標籤</p><p>熱門文章排名</p><p>每週新文章、熱門文章郵件通知</p>"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "title": "網站開發維護",
-        "type": "Sencha Touch 2.1、Webform",
+        "type": "Sencha Touch 2.1、C# Webform、Web API",
         "pic": "images/11.jpg",
         "year": "2014",
         "body": "<p>負責前端程式<br><a href=\"https://m.mtnet.gov.tw/MTNetMobileWeb/\" target=\"_blank\">MTNet航政監理行動服務平台</a></p><p>網站維護<br><a href=\"https://www.queenshop.com.tw\" target=\"_blank\">QueenShop</a></p>"
