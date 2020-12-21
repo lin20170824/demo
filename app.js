@@ -132,7 +132,7 @@ class Detail extends React.Component {
         const nextId = (dataId <= MaxId) ? dataId+1 : dataId;
         const prevId = (dataId > 1) ? dataId-1 : 1;
         const detail = (tmp.length > 0) ? tmp[0] : null;
-        
+
         return (
             <div className="outer-container">
                 <div className="single-post">
