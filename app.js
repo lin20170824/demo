@@ -39,7 +39,7 @@ class Header extends React.Component {
                         <h1 className="site-title"><a href="index.html" rel="home"><i className="fa fa-home"></i></a></h1>
                     </div>
                     <ul className="main-menu flex flex-column justify-content-center">
-                        <li className="current-menu-item"><a href="/">Portfolio</a></li>
+                        <li className="current-menu-item"><a href="index.html">Portfolio</a></li>
                         <li><a href="mailto:lin20170824@gmail.com">Contact</a></li>
                     </ul>
                     <p>
